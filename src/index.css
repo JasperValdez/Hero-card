@@ -5,17 +5,26 @@
 }
 
 .Sige {
-  background-image: url(genshinbg.jpg);
+  background-image: url(inazuma.jpg);
   height: 100vh;
   display: flex;
-  justify-content: center;
- 
+  color: white;
   
 }
 
+.p{
+  text-align: center;
+  color: white;
+  font-size: 30px;
+  justify-content: center;
+}
+
 .Sige h1{
-font-size: 50px;
+font-size: 70px;
 text-align: center;
+color: white;
+
+
 }
 
 .qwe {
