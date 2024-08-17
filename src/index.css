@@ -1,0 +1,55 @@
+*{
+  padding: 0;
+  margin: 0;
+
+}
+
+.Sige {
+  background-image: url(genshinbg.jpg);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+ 
+  
+}
+
+.Sige h1{
+font-size: 50px;
+text-align: center;
+}
+
+.qwe {
+  background-color: beige;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cards{
+  height: 40%;
+  width: 70%;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+.asd{
+  background-color: gray;
+  height: 90%;
+  width: 25%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  gap: 20px;
+  
+}
+
+.asd img {
+  height: 200px;
+  width: 200px;
+  
+}
